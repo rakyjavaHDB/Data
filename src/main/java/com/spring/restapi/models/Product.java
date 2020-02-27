@@ -1,10 +1,6 @@
 package com.spring.restapi.models;
 
-/**
- * @author sahithi
- *Sep 5, 2018
- * 
- */
+
 
 import java.io.Serializable;
 
