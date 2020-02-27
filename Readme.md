@@ -1,4 +1,4 @@
-# Spring Boot Weather API and MongoDB
+# Spring Boot DarkSky API and MongoDB
 
 ### Prerequisites
   * JDK 1.8.X
