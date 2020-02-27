@@ -1,10 +1,6 @@
 package com.spring.restapi.models;
 
-/**
- * @author sahithi
- *Sep 6, 2018
- * 
- */
+
 
 public class FormCityAttribute {
 	
