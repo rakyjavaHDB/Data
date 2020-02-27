@@ -42,10 +42,10 @@ public class TestWebApp {
 	@Test
 	public void testWeatherAPI() {
 	    UriComponents uriComponents = UriComponentsBuilder.newInstance()
-	      .scheme("http").host("api.openweathermap.org/data/2.5/weather")
+	      .scheme("http").host("api.darksky.net/forecast")
 	      .path("").query("q={keyword}&appid={appid}").buildAndExpand("chicago","1c9770dfaf3b327dd03510a4c07b7f2d");
 	 
-	     assertEquals("http://api.openweathermap.org/data/2.5/weather?q=chicago&appid=1c9770dfaf3b327dd03510a4c07b7f2d", uriComponents.toUriString());
+	     assertEquals("https://api.darksky.net/forecast?q=chicago&appid=1c9770dfaf3b327dd03510a4c07b7f2d", uriComponents.toUriString());
 
 	}
 }
