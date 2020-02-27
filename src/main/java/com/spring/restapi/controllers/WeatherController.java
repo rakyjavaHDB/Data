@@ -1,10 +1,5 @@
 package com.spring.restapi.controllers;
 
-/**
- * @author sahithi
- *Sep 6, 2018
- * 
- */
 
 import java.io.IOException;
 
