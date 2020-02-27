@@ -20,13 +20,6 @@ import com.spring.restapi.DemoApplication;
 import com.spring.restapi.models.Product;
 import com.spring.restapi.repositories.ProductRepository;
 
-
-/**
- * @author sahithi
- *Sep 6, 2018
- * 
- */
-
 @RunWith(SpringRunner.class)
 @SpringBootTest(classes = DemoApplication.class)
 public class TestWebApp {
