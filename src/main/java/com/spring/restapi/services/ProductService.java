@@ -11,11 +11,6 @@ import com.spring.restapi.models.Product;
 import com.spring.restapi.repositories.ProductRepository;
 
 
-/**
- * @author sahithi
- *Sep 9, 2018
- * 
- */
 @Service
 public class ProductService {
 	@Autowired
