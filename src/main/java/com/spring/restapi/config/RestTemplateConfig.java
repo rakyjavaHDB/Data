@@ -1,10 +1,6 @@
 package com.spring.restapi.config;
 
-/**
- * @author sahithi
- *Sep 6, 2018
- * 
- */
+
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
