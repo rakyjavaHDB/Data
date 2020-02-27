@@ -4,9 +4,9 @@
   * JDK 1.8.X
   * Maven 3.3.X
   * MongoDB
-  * Open weather map API keys
+  * Dark Sky API keys
 ### Generating keys
-  * Visit https://openweathermap.org/appid
+  * Visit https://darksky.net/dev/docs/libraries
   * SignUp, Select the package and generate API keys
 ### MongoDB
   * Run MongoDB Instance
