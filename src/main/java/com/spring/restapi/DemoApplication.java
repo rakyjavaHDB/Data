@@ -1,10 +1,6 @@
 package com.spring.restapi;
 
-/**
- * @author sahithi
- *Sep 5, 2018
- * 
- */
+
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
