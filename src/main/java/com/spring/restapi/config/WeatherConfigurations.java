@@ -9,12 +9,6 @@ import org.springframework.context.support.PropertySourcesPlaceholderConfigurer;
 
 import com.spring.restapi.models.WeatherUrl;
 
-/**
- * @author sahithi
- *Sep 6, 2018
- * 
- */
-
 @Configuration
 @PropertySource("classpath:application.properties")
 @ComponentScan
